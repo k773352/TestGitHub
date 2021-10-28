@@ -18,6 +18,9 @@ public class TestGitHub {
         // TODO code application logic here
         
         System.out.println("This is my first respositary");
+        System.out.println("This is my first respositary");
+        System.out.println("This is my first respositary");
+        System.out.println("This is my first respositary");
     }
     
 }

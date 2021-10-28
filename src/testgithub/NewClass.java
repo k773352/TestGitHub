@@ -16,6 +16,9 @@ public class NewClass {
         
         
         System.out.println("improved version of new class");
+        System.out.println("improved version of new class");
+        System.out.println("improved version of new class");
+        System.out.println("improved version of new class");
     }
     
 }
