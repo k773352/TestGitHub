@@ -12,7 +12,10 @@ package testgithub;
 public class NewClass {
     
     public NewClass(){
-        System.out.println("New Class");
+        
+        
+        
+        System.out.println("improved version of new class");
     }
     
 }
