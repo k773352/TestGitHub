@@ -9,15 +9,10 @@ package testgithub;
  *
  * @author rueilijhang
  */
-public class TestGitHub {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        
-        System.out.println("This is my first respositary");
+public class NewClass {
+    
+    public NewClass(){
+        System.out.println("New Class");
     }
     
 }
